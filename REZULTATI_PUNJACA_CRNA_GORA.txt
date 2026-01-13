@@ -1,0 +1,77 @@
+==============================================================================================================
+OPTIMALNI RASPORED ELEKTRČNIH PUNJAČA ZA CRNU GORU
+==============================================================================================================
+
+Datum generisanja: 24.12.2025 17:32:03
+Kvaliteta rešenja: 590.57
+Broj preporučenih punjača: 36
+
+PREPORUČENE LOKACIJE:
+--------------------------------------------------------------------------------------------------------------
+#   Geografska širina    Geografska dužina    Kapacitet (pile)    
+--------------------------------------------------------------------------------------------------------------
+1   42.441100            19.263600            6                   
+2   42.444790            19.262965            6                   
+3   42.438038            19.243923            5                   
+4   42.444669            19.223671            6                   
+5   42.476782            19.291057            2                   
+6   42.786841            18.963138            4                   
+7   42.093700            19.098400            6                   
+8   42.143938            19.122368            2                   
+9   42.453100            18.537500            4                   
+10  42.449680            18.515308            6                   
+11  42.275514            18.865226            4                   
+12  42.842500            19.873300            4                   
+13  42.850404            19.865010            3                   
+14  42.833000            20.166500            2                   
+15  42.829569            20.180538            3                   
+16  42.420700            18.768300            4                   
+17  42.436166            18.768734            6                   
+18  41.929400            19.224400            1                   
+19  42.553800            19.146100            2                   
+20  42.308000            19.231000            2                   
+21  42.390600            18.914200            2                   
+22  42.365000            19.331400            2                   
+23  42.596900            19.945800            2                   
+24  42.809698            19.532846            5                   
+25  42.733300            19.791900            1                   
+26  43.038300            19.747600            4                   
+27  42.998372            19.748792            4                   
+28  43.356700            19.358400            4                   
+29  43.314795            19.348946            2                   
+30  43.156400            19.077500            4                   
+31  42.983450            19.486308            1                   
+32  42.899571            18.954112            6                   
+33  43.153100            18.839200            1                   
+34  42.890636            20.019216            6                   
+35  42.984697            19.192173            6                   
+36  42.751913            20.035943            2                   
+
+==============================================================================================================
+ANALIZA POKRIVANJA PO GRADOVIMA
+==============================================================================================================
+Podgorica           :    0.0 km do najbližeg punjača
+Nikšić              :    2.5 km do najbližeg punjača
+Bar                 :    0.0 km do najbližeg punjača
+Bijelo Polje        :    0.0 km do najbližeg punjača
+Herceg Novi         :    0.0 km do najbližeg punjača
+Budva               :    2.8 km do najbližeg punjača
+Berane              :    0.0 km do najbližeg punjača
+Pljevlja            :    0.0 km do najbližeg punjača
+Rožaje              :    0.0 km do najbližeg punjača
+Kotor               :    0.0 km do najbližeg punjača
+Ulcinj              :    0.0 km do najbližeg punjača
+Danilovgrad         :    0.0 km do najbližeg punjača
+Tivat               :    7.1 km do najbližeg punjača
+Zeta                :    0.0 km do najbližeg punjača
+Cetinje             :    0.0 km do najbližeg punjača
+Tuzi                :    0.0 km do najbližeg punjača
+Plav                :    0.0 km do najbližeg punjača
+Mojkovac            :    9.5 km do najbližeg punjača
+Kolašin             :    2.2 km do najbližeg punjača
+Petnjica            :    2.3 km do najbližeg punjača
+Gusinje             :   11.2 km do najbližeg punjača
+Andrijevica         :    0.0 km do najbližeg punjača
+Žabljak             :    0.0 km do najbližeg punjača
+Plužine             :    0.0 km do najbližeg punjača
+Šavnik              :    9.6 km do najbližeg punjača

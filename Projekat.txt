@@ -1,0 +1,4 @@
+Optimizacija rasporeda stanica za punjenje električnih automobila u zadatom regionu (Crna Gora)
+Referenca: https://drive.google.com/file/d/12sFeJeuRpKHx0a2PvXgw7MkywQM5fh1a/view?usp=sharing
+Podaci: https://wiki.openstreetmap.org/wiki/Processed_data_providers
+Podaci o populaciji: https://www.monstat.org/cg/
